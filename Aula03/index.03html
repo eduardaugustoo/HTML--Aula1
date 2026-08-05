@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas De Series</title>
+</head>
+<body>
+   
+  <h1> Listas de Series</h1>
+  <li>- O verão mudou minha vida</li>
+  <img src="./70d4fa1d637620cf11936a938642c95a74b62557a2d6c580d5c200257a47f159.jpg" alt="O verão mudou minha vida" width="400px">
+  <P>O Verão Que Mudou Minha Vida conta a história de Belly, uma adolescente que vive um verão inesquecível, cheio de descobertas, romances e mudanças que transformam sua vida.</P>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RayrBWW69Ys?si=9TcU_GNsc1EUMuww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+<br>
+<br>
+<br> 
+<br>
+
+
+
+  <li>- GO!</li>
+
+<img src="./img01.jpg" alt="GO!" width="300px">
+<p>GO! Viva do Seu Jeito acompanha Mia, uma jovem talentosa que conquista uma vaga em uma escola de artes e enfrenta desafios, amizades e romances enquanto luta para realizar seus sonhos.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlGZXYWVUq8?si=bKXqQMMNw-REH-Rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+<br>
+<br>
+<br> 
+<br>
+
+
+  <li>-Alexa & katie</li>
+ 
+ <img src="./img03.jpg" width="300px">
+ </p>Alexa & Katie conta a história de duas melhores amigas que enfrentam juntas os desafios da adolescência, mostrando a força da amizade, do apoio e da superação.</p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/PXwMNBCFzgU?si=MV8Uv3Q611P1iGEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ <br>
+
+ 
