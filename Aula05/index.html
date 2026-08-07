@@ -1,55 +1,61 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AULA 05</title>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>AULA 06</title>
 
 </head>
 <body>
+     <!-- A semântica no HTML significa usar as tags certas para cada tipo de conteúdo, ajudando navegadores, mecanismos de busca e leitores de tela a entenderem melhor a estrutura da página -->
 
-    <!-- A semantica no HTML siginfica usar as tags certas para cada tipo de conteúdo, ajudando navegadores, mecanismios de busca e leitores de tela a entenderem melhor a estrutura da página-->
+     <!-- Benefícios do HTML Semântico -->
+    <!-- Melhorar a acessibilidade (Leitores de tela conseguem interpretar melhor) 
+      Melhor o SEO  (O Google entende melhor a estrutura do site)
+      Facilita a manutenção do código (código mais organizado e legível)
+      Ajuda na responsabilidade (tags semânticas trabalham melhor com CSS e JS)
+      -->
 
-    <!-- Beneficios do HTML semântico-->
+     <main>
+     <!-- Contém o conteúdo principal da página -->
+    <h1>Noticias AO VIVO do SESI</h1>
+     </main>
+    <section>
+     <!-- Usada para agrupar conteúdos relacionados dentro de uma página, geralmente com um título, indicando que fazem parte de uma tema específico -->
+    <h2>Últimas Notícias</h2>
+    <P>Hoje foi anunciado um novo projeto...</p>
+    </section>
+    
+    <article>
+    <!-- Representa um conteúdo independente e autocontido, que pode ser distribuido ou reutilazdo separadamente sem perder o sentido. Ex: Postagens BLOG, Notificias, comentários de úsuarios, Cards de produtos, ou artigos de revistas,... -->
+     <h3> Os Alunos amam ir para o SENAI</h3>
+     <p> Descrição.....</p>
+    </article>
 
-    <!--Melhora a acessiblidade (Leitores da tela consegue interpretar melhor )
-    Melhora o SEO (O google entender melhor a esrtutura do site) 
-    Facilita a manutenção do código ()código mais organizado e legivel)
-    Ajuda na responsividade (tags semânticas trabalham melhor com CSS e JS)-->
-   
-<!------------------------------------------------------------------------------------>
+    <aside>
+        <!--TAG usada para conteudos secundarios ou complementares, que não fazem parte do fluxo principal do documento.Normalmente, ela aparece como:
+        -Barras Laterais
+        -Informções Adicionais
+        -Anúncio-->
 
-<!-- SEM SEMÂNTICA -->
-   <a href="#">Ínicio</a>
-   <a href="#">Sobre</a>
-   <p>Texto Principal do site.</p>
-   <p>Todos diretos reservados.</p>
-<!--------------------------------------------------------------------------------->
+        <h3>Vídeos recomendados</h3>
+        <ul>
+            <li>Como programar em HTML</li>
+        </ul>
+    </aside>
 
-  <header>
+</footer>
+<!--Representa o rodapé da pagina, contenbdo informaçõescomo copyright e link secundarios
+quando usar?
+-final da pagina-->
 
-<!-- o topo doo site ou de uma seçaõ (logo,titulo e menu de navegação-->
+<p>❤️2026 Facebook- Todos os direitos reservados</p>
+</footer>
 
-        <nav>
-
-<!--contem links de navegação para outreas informacões do site-->
-
-            <a href="">Ínicio</a>
-            <a href="">Sobre</a>
-        </nav>
-    </header>
-    <main>
-<!--contem oconteudo princcipal da pagina-->
-<h1>Noticias AO VIVO do Sesi<h1>
-    <h2> Ultima Noticias</h2>h2>
-
-
-
-        <p>Texto Principal do Site.</p>
-    </main>
-    <footer>
-        <p>Todos os direitos reservados</p>
-    </footer>
+</main>
+<footer>
+    <p> Todos os direitos reservados</p>
+<footer>
 
 </body>
 </html>
