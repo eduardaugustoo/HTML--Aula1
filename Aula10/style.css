@@ -1,0 +1,57 @@
+body {
+     /* Nome da cor*/
+     /*background-color:Red; */
+
+     /* Hexadecimal*/
+     /*background-color: #f28705;*/
+
+     /*RGB*/
+     /*background-color: rgb(255, 72, 133); */
+
+
+     background-color:rgb(163, 51, 158)
+} 
+
+h1 {
+     color:rgb(255, 255, 255);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px;
+}
+
+p {
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', tim, serif;
+}
+
+h2 {
+     font-size:5vw;
+     font-family: "Playwrite BR Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p{ 
+     font-size: 120%;
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     
+     
+}
+
+span {
+     font-size: 2em;
+     color:aliceblue
+}
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*PX (pixels) e uma unidae fixa. O tamanho sempre sera o mesmo, independente do tamanho da tela. */
+/* 2EM - O dobro do tamanho padrao, significa que ele é o multiplicador do tamanho da base*/
+
+/*120% - 20% maior que o padrao*/
+/*5VW - 5% DA LARGURA DA TELA / isso faz com qu eo tamanho do texto se ajuste ao tamanho da tela!, MUITO útil para design responsivo.*/
+/*Controla a grossura (negrito) do texto. 100= Super fino 400=Normal 700= Negrito 90=Super negrito*/
+/*STRONG -*/
+
+/*-------------------------------------------------------------------------------------------------------*/
+
