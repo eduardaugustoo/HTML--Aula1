@@ -1,0 +1,14 @@
+body {
+    background-color:rgba(129, 255, 255, 0.863);
+}
+#paragrafo1 {
+    color:blueviolet;
+    font-family: "Bebas Neue" , sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/*CLASSES*/
+/*Atributos HTML que adiciona um identificador reutilizável na TAG. Esse identificador pode ser ultilizado no css para selecionar o (s) elementos (s):*/
+.titulo{
+    color:blue
+}
