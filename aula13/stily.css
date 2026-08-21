@@ -1,0 +1,61 @@
+/*=================================*/
+/*CONFIGURAÇÃO GERAL*/
+/*=================================*/
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 30px;
+
+}
+
+h1 {
+    margin-bottom: 5px;
+
+}
+
+h2 {
+    margin-top: 40px;
+
+}
+/*=================================*/
+/*BLOCK*/
+/*=================================*/
+/*oCUPA TODA A LARGURA DISPONIVEL(EX:div, p, h1)*/
+.block {
+    display:block;
+    background-color: cyan;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid blue;
+}
+
+/*=================================*/
+/*INLINE*/
+/*=================================*/
+/*Ocupa só o espaço do conteúdo*/
+
+.Inline {
+    display: inline;
+    background-color: rgb(224, 11, 214);
+    padding: 10px;
+   border: 2px solid blue;
+
+}
+    
+/*=================================*/
+/* 3.INLINE BLOCK*/
+/*=================================*/
+
+.Inline-block {
+    display:inline-block;
+    width: 120px;
+    height: 60px;
+    background-color: brown;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+
+}
+
+
+
