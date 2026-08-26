@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(185, 255, 232);
+
+}
+
+/*FLEXBOX*/
+
+/*justify-content*/
+/*controla como os itens são alinhados horizontalmente dentro do conteiner flex, quando a direção principal é horizontal (padrão: now)*/
+
+/*Flexbox-start:alinnhar os itens á esquerdacenter: Centraliza os itens horizontalmente 
+fLEX-END:Alinhar os itens, o primeiro á esquerda e o ultimo á direita
+space-around: Espaço igual ao redor de cada item(meio termo entre os itens é  maior)
+space-evelyn:espaço exatamente igual entre todos os itens(inclusive nas bordas)*/
+
+
+/* Align-items*/
+/*c:alinha os items no topo 
+center: Centraliza verticalmente
+ flex-end: alinha os itens na parte inferior 
+ stretch:estica os itens para ocupar toda a largura 
+ baseline: alinha com a base na linha base do texto inferior*/
+
+/* flex-direction*/
+/*row: alinha os itens de esquerda para a direita
+row-reverse: da direita para esquerda
+column: de cima para baixo
+column-reverse: de baixo para cima*/
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(255, 190, 215);
+    width: 500px;
+    height: 500px;
+}
+
+.box {
+    background-color: rgb(204, 159, 245);
+    width: 50px;
+    height: 50px;
+    border:1px solid blue;
+
+}
